@@ -8,7 +8,7 @@ public class Hollow_rectangle {
         System.out.println("what should be the width");
         int width = sc.nextInt();
 
-        System.out.println("Here is you rectangle::");
+        System.out.println("Here is your Hollow rectangle::");
         for(int i=0; i<height; i++){
             
             for(int j=0; j<width; j++){
