@@ -6,7 +6,7 @@ public class Half_pyramid180 {
         System.out.println("What should be the height");
         int height = sc.nextInt();
 
-        System.out.println("Here is you rectangle::");
+        System.out.println("Here is your Half pyramid tilted 180 degree::");
         for(int i=1; i<=height; i++){
             
             for(int j=1; j<=height; j++){
