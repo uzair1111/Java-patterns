@@ -6,7 +6,7 @@ public class Inverted_half_pyramid {
         System.out.println("What should be the height");
         int height = sc.nextInt();
 
-        System.out.println("Here is you rectangle::");
+        System.out.println("Here is your inverted Pyramid::");
         for(int i=height; i>=1; i--){
             
             for(int j=i; j>=1; j = j-1){
